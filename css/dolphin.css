@@ -20,5 +20,6 @@ html {
 
 /* Write your solution here */
 @media screen and (min-width:642px) and (max-width:1090px){
-  rotate()
+  #dolphin {
+    rotate(20deg);
 }
